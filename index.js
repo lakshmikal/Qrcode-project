@@ -22,4 +22,4 @@ app.post("/yourqr",(req,res)=>{
         res.render('qrcode',{lakshmi:data})
     })
 })
-app.listen(20000);
+app.listen(10000);

@@ -1,0 +1,41 @@
+
+.maindiv{
+   width: fit-content;
+  margin: 127px auto;
+  padding: 111px;
+  background-image: url(../public/QR_Code.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+input{
+  padding: 9px 5px;
+    width: 284px;
+  margin: 3px 0px 20px;
+}
+button{
+  padding: 8px 37px;
+  background-color: rgb(41, 135, 243);
+  border:none;
+  font-size: 17px;
+  width: 300px;
+}
+.maindiv>div{
+  background-color: white;
+  padding: 30px;
+  width: 300px;
+  height: 115px;
+}
+label{
+  font-size: 22px;
+  font-weight: bold;
+}
+h1{
+  margin: 10px auto;
+  font-size: 60px;
+  width: fit-content;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
